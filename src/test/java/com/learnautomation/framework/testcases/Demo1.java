@@ -9,6 +9,7 @@ public class Demo1 {
 	{
 		System.out.println("Demo Test Executed");
 		System.out.println("Hello First changes");
+		System.out.println("Hello Second changes");
 	}
 
 }
